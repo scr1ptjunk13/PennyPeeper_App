@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.pp"
-        minSdk = 24
+        minSdk = 26 //req for the use of NotificaitonChannel
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
